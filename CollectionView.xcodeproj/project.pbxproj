@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5CB19AA61FD7B2B2004674D5 /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB19AA51FD7B2B2004674D5 /* PostViewController.swift */; };
 		5CCE487E1FC1ACDB0094D9A3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CCE487D1FC1ACDB0094D9A3 /* AppDelegate.swift */; };
 		5CCE48831FC1ACDB0094D9A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CCE48811FC1ACDB0094D9A3 /* Main.storyboard */; };
 		5CCE48851FC1ACDB0094D9A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CCE48841FC1ACDB0094D9A3 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5CB19AA51FD7B2B2004674D5 /* PostViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
 		5CCE487A1FC1ACDB0094D9A3 /* CollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CCE487D1FC1ACDB0094D9A3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5CCE48821FC1ACDB0094D9A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				5CCE488F1FC1AD440094D9A3 /* PhotoCollectionViewController.swift */,
 				5CCE48911FC1AE1C0094D9A3 /* PhotoCollectionViewCell.swift */,
 				5CCE48931FC1AED10094D9A3 /* Model.swift */,
+				5CB19AA51FD7B2B2004674D5 /* PostViewController.swift */,
 				5CCE48811FC1ACDB0094D9A3 /* Main.storyboard */,
 				5CCE48841FC1ACDB0094D9A3 /* Assets.xcassets */,
 				5CCE48861FC1ACDB0094D9A3 /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 				5CCE48901FC1AD440094D9A3 /* PhotoCollectionViewController.swift in Sources */,
 				5CCE48921FC1AE1C0094D9A3 /* PhotoCollectionViewCell.swift in Sources */,
 				5CCE48941FC1AED10094D9A3 /* Model.swift in Sources */,
+				5CB19AA61FD7B2B2004674D5 /* PostViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,6 +317,7 @@
 				5CCE488E1FC1ACDB0094D9A3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
